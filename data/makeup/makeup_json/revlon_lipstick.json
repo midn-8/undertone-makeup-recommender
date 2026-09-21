@@ -1,0 +1,375 @@
+{
+  "brand": "Revlon",
+  "product": "Super Lustrous Lipstick",
+  "category": "lipstick",
+  "shades": [
+    {
+      "code": "535",
+      "name": "Rum Raisin",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/rum_raisin.png"
+    },
+    {
+      "code": "804",
+      "name": "Rumberry",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/rumberry.png"
+    },
+    {
+      "code": "809",
+      "name": "Wild Saffron",
+      "undertone": ["WARM"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/wild_saffron.png"
+    },
+    {
+      "code": "755",
+      "name": "Bare It All",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/bare_it_all.png"
+    },
+    {
+      "code": "637",
+      "name": "Blushing Nude",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/blushing_nude.png"
+    },
+    {
+      "code": "756",
+      "name": "Nude Fury",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/nude_furry.png"
+    },
+    {
+      "code": "762",
+      "name": "Flushed",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/flushed.png"
+    },
+    {
+      "code": "764",
+      "name": "On The Mauve",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/on_the_mauve.png"
+    },
+    {
+      "code": "766",
+      "name": "Secret Club",
+      "undertone": ["WARM"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/secret_club.png"
+    },
+    {
+      "code": "777",
+      "name": "Dramatic",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/dramatic.png"
+    },
+    {
+      "code": "755",
+      "name": "Super Red",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/super_red.png"
+    },
+    {
+      "code": "777",
+      "name": "Vampire Love",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/vampire_love.png"
+    },
+    {
+      "code": "778",
+      "name": "Pink Promise",
+      "undertone": ["COOL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/pink_promise.png"
+    },
+    {
+      "code": "802",
+      "name": "Daylight Delight",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/daylight_delight.png"
+    },
+    {
+      "code": "803",
+      "name": "Whiskey Business",
+      "undertone": ["COOL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/whiskey_business.png"
+    },
+    {
+      "code": "806",
+      "name": "Electric Melon",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/electric_melon.png"
+    },
+    {
+      "code": "805",
+      "name": "Candied Rose",
+      "undertone": ["COOL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/candied_rose.png"
+    },
+    {
+      "code": "807",
+      "name": "Fire Peach",
+      "undertone": ["WARM"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/fire_peach.png"
+    },
+    {
+      "code": "810",
+      "name": "Uncut Ruby",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/uncut_ruby.png"
+    },
+    {
+      "code": "811",
+      "name": "Laidback Lilac",
+      "undertone": ["COOL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/laidback_lilac.png"
+    },
+    {
+      "code": "044",
+      "name": "Bare Affair",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/bare_affair.png"
+    },
+    {
+      "code": "130",
+      "name": "Rose Velvet",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/rose_velvet.png"
+    },
+    {
+      "code": "325",
+      "name": "Toast Of New York",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/toast_of_new_york.png"
+    },
+    {
+      "code": "665",
+      "name": "Choco-Liscious",
+      "undertone": ["WARM"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/choco_liscious.png"
+    },
+    {
+      "code": "225",
+      "name": "Rosewine",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/rosewine.png"
+    },
+    {
+      "code": "750",
+      "name": "Kiss Me Coral",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/kiss_me_coral.png"
+    },
+    {
+      "code": "674",
+      "name": "Coralberry",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/coralberry.png"
+    },
+    {
+      "code": "677",
+      "name": "Siren",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/siren.png"
+    },
+    {
+      "code": "720",
+      "name": "Fire and Ice",
+      "undertone": ["WARM", "COOL", "NEUTRAL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/fire_and_ice.png"
+    },
+    {
+      "code": "440",
+      "name": "Cherries In The Snow",
+      "undertone": ["COOL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/cherries_in_the_snow.png"
+    },
+    {
+      "code": "740",
+      "name": "Certainly Red",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/certainly_red.png"
+    },
+    {
+      "code": "415",
+      "name": "Pink In The Afternoon",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/pink_in_the_afternoon.png"
+    },
+    {
+      "code": "668",
+      "name": "Primrose",
+      "undertone": ["COOL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/primrose.png"
+    },
+    {
+      "code": "423",
+      "name": "Pink Velvet",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/pink_velvet.png"
+    },
+    {
+      "code": "435",
+      "name": "Love That Pink",
+      "undertone": ["WARM"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/love_that_pink.png"
+    },
+    {
+      "code": "806",
+      "name": "Electric Melon",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/electric_melon.png"
+    },
+    {
+      "code": "473",
+      "name": "Mauvy Night",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/mauvy_night.png"
+    },
+    {
+      "code": "463",
+      "name": "Sassy Mauve",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/sassy_mauve.png"
+    },
+    {
+      "code": "510",
+      "name": "Berry Rich",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/berry_rich.png"
+    },
+    {
+      "code": "525",
+      "name": "Wine With Everything",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/wine_with_everything.png"
+    },
+    {
+      "code": "630",
+      "name": "Raisin Rage",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/raisin_rage.png"
+    },
+    {
+      "code": "046",
+      "name": "Bombshell Red",
+      "undertone": ["WARM"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/bombshell_red.png"
+    },
+    {
+      "code": "660",
+      "name": "Berry Haute",
+      "undertone": ["COOL"],
+      "mood": ["bold", "bright"],
+      "finish": "cream",
+      "image": "REVLON_LIP/berry_haute.png"
+    },
+    {
+      "code": "477",
+      "name": "Black Cherry",
+      "undertone": ["COOL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/black_cherry.png"
+    },
+    {
+      "code": "663",
+      "name": "Va Va Violet",
+      "undertone": ["COOL"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/va_va_violet.png"
+    },
+    {
+      "code": "725",
+      "name": "Love That Red",
+      "undertone": ["WARM"],
+      "mood": ["bold"],
+      "finish": "cream",
+      "image": "REVLON_LIP/love_that_red.png"
+    }
+  ]
+}

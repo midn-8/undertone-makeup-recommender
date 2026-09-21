@@ -1,0 +1,279 @@
+{
+  "brand": "TIRTIR",
+  "product": "Mask Fit Red Cushion",
+  "shades": [
+    {
+      "code": "10C",
+      "name": "Shell",
+      "undertone": ["COOL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/10C.webp"
+    },
+    {
+      "code": "13W",
+      "name": "Cream",
+      "undertone": ["WARM"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/13W.avif"
+    },
+    {
+      "code": "22C",
+      "name": "Peach Beige",
+      "undertone": ["COOL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/22C.avif"
+    },
+    {
+      "code": "22N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/22N.avif"
+    },
+    {
+      "code": "28N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/28N.avif"
+    },
+    {
+      "code": "29C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/29C.avif"
+    },
+    {
+      "code": "45N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/45N.avif"
+    },
+    {
+      "code": "45W",
+      "name": "Shell Beige",
+      "undertone": ["WARM"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/45W.avif"
+    },
+    {
+      "code": "47N",
+      "name": "ebony",
+      "undertone": ["NEUTRAL"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/47N.avif"
+    },
+    {
+      "code": "13C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/13C.avif"
+    },
+    {
+      "code": "21C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/21C.avif"
+    },
+    {
+      "code": "25N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/25N.avif"
+    },
+    {
+      "code": "35N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/35N.avif"
+    },
+    {
+      "code": "33C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/33C.avif"
+    },
+    {
+      "code": "13N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/13N.avif"
+    },
+    {
+      "code": "21N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/21N.avif"
+    },
+    {
+      "code": "27C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/27C.avif"
+    },
+    {
+      "code": "33N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/33N.avif"
+    },
+    {
+      "code": "37C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/37C.avif"
+    },
+    {
+      "code": "15C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/15C.avif"
+    },
+    {
+      "code": "21W",
+      "name": "Shell Beige",
+      "undertone": ["WARM"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/21W.avif"
+    },
+    {
+      "code": "27N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/27N.avif"
+    },
+    {
+      "code": "33W",
+      "name": "Shell Beige",
+      "undertone": ["WARM"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/33W.avif"
+    },
+    {
+      "code": "40N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/40N.avif"
+    },
+    {
+      "code": "17C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/17C.avif"
+    },
+    {
+      "code": "23N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/23N.avif"
+    },
+    {
+      "code": "34C",
+      "name": "Shell Beige",
+      "undertone": ["COOL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/34C.avif"
+    },
+    {
+      "code": "43N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/43N.avif"
+    },
+    {
+      "code": "17N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/17N.avif"
+    },
+    {
+      "code": "24N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/24N.avif"
+    },
+    {
+      "code": "30N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/30N.avif"
+    },
+    {
+      "code": "34N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/34N.avif"
+    },
+    {
+      "code": "31N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/31N.avif"
+    },
+    {
+      "code": "24W",
+      "name": "Shell Beige",
+      "undertone": ["WARM"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/24W.avif"
+    },
+    {
+      "code": "51N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/51N.avif"
+    },
+    {
+      "code": "17W",
+      "name": "Shell Beige",
+      "undertone": ["WARM"],
+      "depth": "LIGHT",
+      "image": "TIRTIR_CUSHION/17W.avif"
+    },
+    {
+      "code": "55N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "DEEP",
+      "image": "TIRTIR_CUSHION/55N.avif"
+    },
+    {
+      "code": "34N",
+      "name": "Shell Beige",
+      "undertone": ["NEUTRAL"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/34N.avif"
+    },
+    {
+      "code": "22W",
+      "name": "Sheer Beige",
+      "undertone": ["NEUTRAL", "WARM"],
+      "depth": "MEDIUM",
+      "image": "TIRTIR_CUSHION/22W.avif"
+    }
+  ]
+}

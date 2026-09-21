@@ -1,0 +1,95 @@
+{
+  "brand": "House of HUR",
+  "product": "Moist Ampoule Blusher",
+  "category": "blush",
+  "shades": [
+    {
+      "code": "09",
+      "name": "Ruby Red",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/0000_ruby_red.webp"
+    },
+    {
+      "code": "07",
+      "name": "Pink Rosie",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/0001_pink_rosie.webp"
+    },
+    {
+      "code": "01",
+      "name": "Nude Beige",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/Blush-_Beige__0000_Layer-Comp-1.webp"
+    },
+    {
+      "code": "02",
+      "name": "Deep Plum",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/Blush-_Deep-Plum__0000_Layer-Comp-1.webp"
+    },
+     {
+      "code": "03",
+      "name": "Rose Brown",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/Blush-_Rose-Brown__0000_Layer-Comp-1.webp"
+    },
+     {
+      "code": "06",
+      "name": "Cherry Blossom",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/cherry.webp"
+    },
+     {
+      "code": "04",
+      "name": "Lavender Flush",
+      "undertone": ["COOL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/lavendar.webp"
+    },
+     {
+      "code": "10",
+      "name": "Grape Heat",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bold"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/MAB_Thumbnail_grape_2x_6517b856-8101-476a-ac29-1d3f57a356f2.webp"
+    },
+     {
+      "code": "11",
+      "name": "Peachy Muse",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/MAB_Thumbnail_peach_2x_b5008e59-8d39-4cb9-a737-e8a3be31c37c.webp"
+    },
+     {
+      "code": "05",
+      "name": "Peach Coral",
+      "undertone": ["WARM", "NEUTRAL"],
+      "mood": ["bright"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/peach.webp"
+    },
+    {
+      "code": "08",
+      "name": "Berry Purple",
+      "undertone": ["COOL", "NEUTRAL"],
+      "mood": ["bold"],
+      "type": "liquid",
+      "image": "HUR_BLUSH/0002_berrypurple.webp"
+    }
+  ]
+}
